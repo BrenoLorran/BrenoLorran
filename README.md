@@ -3,7 +3,7 @@
 Eu sou o Breno Lorran
 
 - 🔭 Atualmente estou trabalhando na ION Sistemas.
-- 📚 Atualmente estou estudando C#, HTML5, CSS3 and Javascript.
+- 📚 Atualmente estou estudando C#, HTML5, CSS3 e Javascript.
 - ⚡ Eu adoro viajar e sou apaixonado pelo Clube Atlético Mineiro!
 
 ##
